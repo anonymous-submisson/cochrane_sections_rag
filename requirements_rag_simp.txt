@@ -1,0 +1,15 @@
+torch==2.9.1
+vllm==0.14.0
+transformers==4.57.6
+huggingface_hub==0.36.0
+tokenizers==0.22.2
+safetensors==0.7.0
+scikit-learn==1.7.2
+fire==0.7.1
+nltk==3.9.2
+sacrebleu==2.5.1
+easse @ git+https://github.com/feralvam/easse.git@6a4352ec299ed03fda8ee45445ca43d9c7673e89
+Levenshtein==0.27.3
+numpy==2.2.6
+pandas==2.3.3
+tqdm==4.67.1
