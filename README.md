@@ -68,3 +68,11 @@ bash scripts/simp/eval/doc_eval_rag_rand_full_k4_{qwen32|gemma27|llama70}.sh
 bash scripts/simp/eval/doc_eval_rag_rand_split_k4_{qwen32|gemma27|llama70}.sh
 bash scripts/simp/eval/doc_eval_rag_retrieved_full_k4_{qwen32|gemma27|llama70}.sh
 ```
+
+## Acknowledgements
+
+We adapt and build upon code from the following repositories:
+
+- Anonymous
+- Anonymous
+- Anonymous
